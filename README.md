@@ -1,1 +1,3 @@
-# Logistic_Regression_Model
+Data Analysis Project in R Programming
+
+Building and Fitting a Logistic Regression Model that is based on a Heart Disease Patient dataset with several characteristics. Along with creating a Logistic Regression Model, I inspected fitted models, and associated tests, and fit additional hypothesized regression models of my choosing, in a sensible sequence that leads to a more parsimonious 'final' model. At each of these steps, I removed only one predictor -– or one conceptual group of predictors -- that has become unimportant at that step, until reaching a "final" parsimonious model of the relationship between Heart Disease and some, or all, of the predictors used.
